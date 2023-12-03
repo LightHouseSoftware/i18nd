@@ -1,0 +1,6 @@
+name "i18nd"
+description "i18nd — internalization library"
+authors "Bagomot"
+copyright "Copyright © 2023, ATISOT"
+license "MIT"
+targetType "sourceLibrary"

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/i18nextd
+i18nextd.so
+i18nextd.dylib
+i18nextd.dll
+i18nextd.a
+i18nextd.lib
+i18nextd-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
